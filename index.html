@@ -5292,6 +5292,90 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Backend Language">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#managepy-vs-django-admin" class="md-nav__link">
+    <span class="md-ellipsis">
+      manage.py vs django-admin
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creating-our-first-app" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating our first app
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#managing-django-urls" class="md-nav__link">
+    <span class="md-ellipsis">
+      Managing Django URLs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-differences-between-dir-and-help" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Differences Between dir() and help()
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Key Differences Between dir() and help()">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-how-to-access-hidden-components" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. How to Access Hidden Components
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-alternatively-use-tools-like-pkgutil-to-list-all-submodules-within-a-package" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Alternatively, use tools like pkgutil to list all submodules within a package:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#purpose-of-dir-and-help" class="md-nav__link">
+    <span class="md-ellipsis">
+      Purpose of dir() and help()
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -5338,7 +5422,192 @@
 <p>Go is gaining traction in the AI and backend development communities due to its speed, concurrency support, and strong built-in standard library. Go's simplicity and efficiency make it well-suited for building scalable backend systems that handle AI workloads efficiently. Additionally, frameworks like <code>TensorFlow</code> and <code>gorgonia</code> provide Go bindings for AI development.</p>
 <hr>
 <p>By learning Python and Golang, you'll be well-equipped to tackle backend development tasks in the evolving landscape of AI-driven applications and systems. These languages offer complementary strengths and are likely to remain relevant in the future of AI-powered backend development.</p>
-</details></div>
+</details>
+<hr>
+<div class="admonition tip">
+<p class="admonition-title">Koncept HolyGrail</p>
+<p><code>dir()</code> lists attributes and methods of an object, <strong>while</strong> <code>help()</code> provides detailed documentation about specific objects, including classes, functions, and modules.</p>
+<blockquote>
+<p>Django</p>
+</blockquote>
+<div class="language-sh highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>$<span class="w"> </span>django-admin<span class="w"> </span>shell
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>$<span class="w"> </span>import<span class="w"> </span>django
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>$<span class="w"> </span>dir<span class="o">(</span>django<span class="o">)</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>$<span class="w"> </span>help<span class="o">(</span>django<span class="o">)</span>
+</span></code></pre></div>
+<blockquote>
+<p><code>djangorestframework</code> <mark>rest_framework</mark></p>
+</blockquote>
+<div class="language-sh highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>$<span class="w"> </span>py<span class="w"> </span>manage.py<span class="w"> </span>shell
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a>
+</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a>$<span class="w"> </span>import<span class="w"> </span>rest_framework
+</span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a>$<span class="w"> </span>dir<span class="o">(</span>rest_framework<span class="o">)</span>
+</span><span id="__span-1-5"><a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a>$<span class="w"> </span>help<span class="o">(</span>rest_framework<span class="o">)</span>
+</span><span id="__span-1-6"><a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a>
+</span><span id="__span-1-7"><a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a>$<span class="w"> </span>import<span class="w"> </span>rest_framework.generics
+</span><span id="__span-1-8"><a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a>$<span class="w"> </span>dir<span class="o">(</span>rest_framework.generics<span class="o">)</span>
+</span><span id="__span-1-9"><a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a>$<span class="w"> </span>help<span class="o">(</span>rest_framework.generics<span class="o">)</span>
+</span></code></pre></div>
+</div>
+<h3 id="managepy-vs-django-admin"><code>manage.py</code> vs <code>django-admin</code></h3>
+<div class="admonition tip">
+<p class="admonition-title">manage.py shell vs django shell</p>
+<p><mark>python manage.py shell</mark> loads the Django project's environment, <strong>while</strong> <mark>django-admin shell</mark> provides a general Python shell without Django-specific setup.</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="c1"># django-admin shell provides a general Python shell without Django-specific setup.</span>
+</span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a>django-admin<span class="w"> </span>shell
+</span><span id="__span-2-3"><a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a>
+</span><span id="__span-2-4"><a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="c1"># python manage.py shell loads the Django project's environment.</span>
+</span><span id="__span-2-5"><a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a>py<span class="w"> </span>manage.py<span class="w"> </span>shell
+</span></code></pre></div>
+</div>
+<hr>
+<h2 id="creating-our-first-app">Creating our first app</h2>
+<p>A single Django project can contain one or more apps that work together to power a web application. Django uses the concept of projects and apps to keep code clean and readable.</p>
+<p class="annotate"><strong>Apps</strong> in Django are like pieces of a website. You can create an entire website with one single app, but it is useful to break it up into different apps, each representing a clear function.(1)</p>
+<ol>
+<li>
+<p>Creating our first app</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>python3<span class="w"> </span>-m<span class="w"> </span>django<span class="w"> </span>startproject<span class="w"> </span>&lt;project_name&gt;
+</span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>python3<span class="w"> </span>-m<span class="w"> </span>django<span class="w"> </span>startproject<span class="w"> </span>moviereviews
+</span><span id="__span-3-3"><a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a>
+</span><span id="__span-3-4"><a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="nb">cd</span><span class="w"> </span>moviereviews
+</span><span id="__span-3-5"><a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a>
+</span><span id="__span-3-6"><a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a>python3<span class="w"> </span>manage.py<span class="w"> </span>startapp<span class="w"> </span>&lt;name<span class="w"> </span>of<span class="w"> </span>app&gt;
+</span><span id="__span-3-7"><a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a>python3<span class="w"> </span>manage.py<span class="w"> </span>startapp<span class="w"> </span>movie
+</span></code></pre></div>
+<p>Although our new app exists in our Django project, Django doesn't recognize it till we explicitly add it. To do so, we need to specify it in <code>settings.py</code>. So, go to <code>/moviereviews/settings.py</code>, under <code>INSTALLED_APPS</code>, and you will see six built-in apps already there.</p>
+<p>Add the app name, as highlighted in the following (this should be done whenever a new app is created):</p>
+<div class="language-py highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="n">INSTALLED_APPS</span> <span class="o">=</span> <span class="p">[</span>
+</span><span id="__span-4-2"><a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a>    <span class="s1">'django.contrib.admin'</span><span class="p">,</span>
+</span><span id="__span-4-3"><a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a>    <span class="s1">'django.contrib.auth'</span><span class="p">,</span>
+</span><span id="__span-4-4"><a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a>    <span class="s1">'django.contrib.contenttypes'</span><span class="p">,</span>
+</span><span id="__span-4-5"><a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a>    <span class="s1">'django.contrib.sessions'</span><span class="p">,</span>
+</span><span id="__span-4-6"><a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a>    <span class="s1">'django.contrib.messages'</span><span class="p">,</span>
+</span><span id="__span-4-7"><a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a>    <span class="s1">'django.contrib.staticfiles'</span><span class="p">,</span>
+</span><span id="__span-4-8"><a id="__codelineno-4-8" name="__codelineno-4-8" href="#__codelineno-4-8"></a>    <span class="c1"># Added app name here</span>
+</span><span id="__span-4-9"><a id="__codelineno-4-9" name="__codelineno-4-9" href="#__codelineno-4-9"></a>    <span class="s1">'movie'</span><span class="p">,</span>
+</span><span id="__span-4-10"><a id="__codelineno-4-10" name="__codelineno-4-10" href="#__codelineno-4-10"></a><span class="p">]</span>
+</span></code></pre></div>
+<ul>
+<li>Django 4 for the Impatient, 1st Edition by Greg Lim, Daniel Correa</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="managing-django-urls">Managing Django URLs</h2>
+<p>Note that <code>urls.py</code> is located in the <strong>project's main folder</strong>, <mark>moviereviews</mark>.</p>
+<p><strong>All requests to the site will go through <code>urls.py</code></strong>. Then, specific paths defined in <code>urls.py</code> are linked to specific view functions, which are located in the individual app folders.</p>
+<p>For example, the <code>/about</code> path (defined in <code>urls.py</code> file) is linked to the about function
+(defined in the <code>/movie/views.py</code> file). This allows us to separate views according to
+the app they belong to.</p>
+<ul>
+<li>Django 4 for the Impatient, 1st Edition, pg: 23</li>
+</ul>
+<hr>
+<h2 id="key-differences-between-dir-and-help">Key Differences Between <code>dir()</code> and <code>help()</code></h2>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked id="__tabbed_1_1" name="__tabbed_1" type="radio"><input id="__tabbed_1_2" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">1. <code>dir()</code> Functionality:</label><label for="__tabbed_1_2">2. <code>help()</code> Functionality:</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li>
+<p>The <code>dir()</code> function lists the attributes and methods that are currently accessible in the namespace of the object or module.</p>
+</li>
+<li>
+<p>It only shows what has been explicitly imported or exposed through the module's <code>__init__.py</code> file.</p>
+</li>
+<li>
+<p>For Django REST Framework (<code>rest_framework</code>), many submodules and attributes <mark>are not automatically exposed</mark> in the <strong>top-level namespace</strong>, so they won't appear in <code>dir(rest_framework)</code> unless explicitly imported.</p>
+</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li>
+<p>The <code>help()</code> function provides detailed documentation about an object, module, or class by reading its docstrings and metadata.</p>
+</li>
+<li>
+<p>It retrieves information about all components defined within the module, even those that are not directly exposed in the <strong>top-level namespace</strong>.</p>
+</li>
+<li>
+<p>This is why <code>help(rest_framework)</code> can show all built-ins, classes, and functions defined in Django REST Framework, even if they are not listed by <code>dir()</code>.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<details class="question" open="open">
+<summary>Why This Happens in Django REST Framework</summary>
+<ul>
+<li>
+<p>Django REST Framework is modular, and its submodules (e.g., <code>serializers</code>, <code>views</code>, etc.) are not automatically imported into the top-level namespace (<code>rest_framework</code>) to keep it lightweight and efficient.</p>
+</li>
+<li>
+<p>The <code>help()</code> function accesses deeper documentation about the module's structure, including components that are defined but not directly imported or exposed.</p>
+</li>
+</ul>
+</details>
+<details class="example" open="open">
+<summary>Example: Understanding the Difference</summary>
+<div class="language-py highlight"><span class="filename">python</span><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">rest_framework</span>
+</span><span id="__span-5-2"><a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a>
+</span><span id="__span-5-3"><a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a><span class="c1"># Using dir()</span>
+</span><span id="__span-5-4"><a id="__codelineno-5-4" name="__codelineno-5-4" href="#__codelineno-5-4"></a><span class="nb">print</span><span class="p">(</span><span class="nb">dir</span><span class="p">(</span><span class="n">rest_framework</span><span class="p">))</span>
+</span><span id="__span-5-5"><a id="__codelineno-5-5" name="__codelineno-5-5" href="#__codelineno-5-5"></a><span class="c1"># Output: Limited attributes like '__name__', '__package__', '__doc__', etc.</span>
+</span><span id="__span-5-6"><a id="__codelineno-5-6" name="__codelineno-5-6" href="#__codelineno-5-6"></a>
+</span><span id="__span-5-7"><a id="__codelineno-5-7" name="__codelineno-5-7" href="#__codelineno-5-7"></a><span class="c1"># Using help()</span>
+</span><span id="__span-5-8"><a id="__codelineno-5-8" name="__codelineno-5-8" href="#__codelineno-5-8"></a><span class="n">help</span><span class="p">(</span><span class="n">rest_framework</span><span class="p">)</span>
+</span><span id="__span-5-9"><a id="__codelineno-5-9" name="__codelineno-5-9" href="#__codelineno-5-9"></a><span class="c1"># Output: Detailed documentation about all submodules, classes, functions, etc., even if they are not listed by dir().</span>
+</span></code></pre></div>
+</details>
+<h3 id="1-how-to-access-hidden-components">1. How to Access Hidden Components</h3>
+<p>If you want to see all submodules or attributes using <code>dir()</code>, <mark>you need to explicitly import them</mark>:</p>
+<div class="language-py highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">rest_framework.serializers</span>
+</span><span id="__span-6-2"><a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a><span class="nb">print</span><span class="p">(</span><span class="nb">dir</span><span class="p">(</span><span class="n">rest_framework</span><span class="o">.</span><span class="n">serializers</span><span class="p">))</span>
+</span></code></pre></div>
+<h3 id="2-alternatively-use-tools-like-pkgutil-to-list-all-submodules-within-a-package">2. Alternatively, use tools like <code>pkgutil</code> to list all submodules within a package:</h3>
+<div class="language-py highlight"><pre><span></span><code><span id="__span-7-1"><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">pkgutil</span>
+</span><span id="__span-7-2"><a id="__codelineno-7-2" name="__codelineno-7-2" href="#__codelineno-7-2"></a><span class="k">for</span> <span class="n">module</span> <span class="ow">in</span> <span class="n">pkgutil</span><span class="o">.</span><span class="n">iter_modules</span><span class="p">(</span><span class="n">rest_framework</span><span class="o">.</span><span class="n">__path__</span><span class="p">):</span>
+</span><span id="__span-7-3"><a id="__codelineno-7-3" name="__codelineno-7-3" href="#__codelineno-7-3"></a>    <span class="nb">print</span><span class="p">(</span><span class="n">module</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>
+</span></code></pre></div>
+<h3 id="conclusion">Conclusion</h3>
+<ul>
+<li>
+<p><code>dir()</code> provides a <mark>surface-level view</mark> of what is currently accessible in a module's namespace.</p>
+</li>
+<li>
+<p><code>help()</code> <mark>dives deeper into documentation and metadata</mark>, showing all components defined within the module, whether or not they are exposed at the top level.</p>
+</li>
+</ul>
+<hr>
+<h3 id="purpose-of-dir-and-help">Purpose of <code>dir()</code> and <code>help()</code></h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th><code>dir()</code></th>
+<th><code>help()</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Purpose</strong></td>
+<td>Lists attributes and methods</td>
+<td>Provides detailed documentation</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>A list of names (strings)</td>
+<td>Text-based help with descriptions</td>
+</tr>
+<tr>
+<td><strong>Detail Level</strong></td>
+<td>Surface-level (what’s available)</td>
+<td>In-depth (what it does and how to use)</td>
+</tr>
+</tbody>
+</table>
+<hr></div>
 
 
 
