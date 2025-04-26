@@ -2,950 +2,950 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pypy-django.github.io/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/core/api-development/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/core/query-parameters/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/core/ideas/api-example/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/core/ideas/backend/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/core/ideas/ideas/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/drf-roadmap/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/AuthenticationandPermissions/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Router/DefaultRouter/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Router/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Router/listing-exposed-api/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Router/understanding-basename/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Serializers/basic-serializers/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Serializers/custom-field-validation/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Serializers/drf-serializers/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Serializers/model-serializers/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Serializers/nested-serializers/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Viewsets/drf-viewsets/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/Viewsets/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/core/api-key-in-public-api/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/core/bulk-insert-api/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/core/documenting-restapi/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/core/drf-functionbasedviews/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/core/public-api-security/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/core/rate-limiting-throttling/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/topic/authentication-overview/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/topic/django-contrib-auth/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/topic/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/drf/topic/learning-path/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/fastAPI/fast-api/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/microservices/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/microservices/python-microservices/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/guidelines-range-version-pipfile/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/code-formating-and-linting/black/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/code-formating-and-linting/flake8/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/code-quality/code-quality-package/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/code-quality/code-testing-package/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/code-quality/coding-style-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/code-quality/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/framework/basic-test-example/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/framework/django-testing-framework/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/framework/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/framework/topic/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/testing/pytest/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/APIs/throttling/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/draft/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/topic/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/core/designpatterns/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/core/designpatterns/model-mixins-patterns/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/core/designpatterns/template-patterns/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/core/designpatterns/user-profile-patterns/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/core/designprinciple/design-principle/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/core/server/web-server/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/course/course/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/course/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/course/planning/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/context-processors/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/decorator/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-404/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-form/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-mail/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-middleware/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-model/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-reset-password/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-secretkey/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-template/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-urlconf/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-utility-functions/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/django-view/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/migration/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/django-celery/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/django-channels/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/django-hardening/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/django-signals/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/django-tools/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/advanced/shortcuts/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/class-based-views/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/django-contrib-admin/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/django-contrib-auth/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/django-contrib-contenttypes/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/django-contrib-messages/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/django-paginator/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/builtin/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/celery/celery-theory/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/celery/celery/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/context-processors/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/custom-char-field-widget/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/custom-text-field-widget/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/image-display-mixins/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/image-size-validators/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/image-type-validators/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/mixins/permission-mixins/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/django/shell/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/middleware/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/middleware/topic/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/0.draft/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/dj-rest-auth/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-allauth/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-autoslug/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-cors-headers/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-crispy-forms/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-debug-toolbar/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-environ/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-extensions/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-filter/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-recaptcha/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-simple-history/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/django-taggit/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/python-dotenv/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/python-mysqlclient/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/simplejwt/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/social-auth-app-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/package/tinymce/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/tools/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/tools/pip/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/tools/pipenv/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/backend/tools/pyenv/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/06/active-link-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/02/ensuring-admin-access-control-in-django-models/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/27/understanding-args-and-kwargs-in-python-functions/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/26/class-based-views-are-not-always-class-based-generic-views/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/10/integrating-code-formatting-and-linting-checks-in-github-actions/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/06/comparing-django-environ-python-decouple-and-python-dotenv/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/22/what-are-the-comparisons-between-python-lists-dictionaries-and-javascript-arrays-and-objects/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/09/configuring-django-for-local-and-production-environments-with-dynamic-env-files/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/12/content-type-or-mime-type-in-post/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/30/customizing-the-reqest-and-response-in-drf/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/04/customizing-swagger-ui-removing-the-django-login-button/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/23/decorators-in-python/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/08/the-importance-of-defaults-in-environment-variables/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/23/strengthening-your-django-applications-with-defensive-programming/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/27/difference-between-templateview-listview-and-view/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/09/django-model-fields-with-textchoices/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/02/django-allauth-for-web-apps---dj-rest-auth-for-api/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/01/django-and-djangorestframework-views/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/05/viewset-vs-apiview/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/07/creating-a-blog-model-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/05/django-cors/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/03/a-guide-to-csrf-cookie-settings/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/14/dumping-data-from-django-database/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/10/django-easy-thumbnails-package/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/20/using-elasticsearch-with-django-and-drf/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/20/intro-to-elasticsearch/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/01/managing-development-env-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/28/django-environ-package/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/05/using-ajax-in-the-django-forms/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/12/simplifying-django-views-with-get_object_or_404/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/14/difference-between-django-httprequest-vs-requests-package/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/19/django-in-production/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/17/internationalization-and-localization-in-django-a-quick-guide/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/18/django-images-not-showing-in-the-cpanel-or-shared-hosting/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/14/django-model-inheritance/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/20/splitting-django-modelspy-into-multiple-files/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/09/django-admin-forms-with-formfield_overrides/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/08/customizing-how-models-are-displayed/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/25/django-queryset/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/12/understanding-slugify-and-slugfield-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/17/mastering-django-static-file-settings-static_url-static_root--staticfiles_dirs/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/06/drf-yasg-swagger/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/16/get-related-blogs-using-django-taggit/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/06/django-with-ajax/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/13/django-with-tailwind/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/03/blog-crud-application-using-drf--viewsets/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/23/what-is-the-equivalent-concept-to-javascripts-prototype-chain-in-python/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/15/handling-boolean-environment-variables-in-django-settings/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/23/enhancing-django-development-with-model-help_text/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/25/how-to-order-multiple-inheritance-in-python-and-what-is-the-order-of-execution/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/17/installation-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/16/mastering-apis-the-key-to-unlocking-advanced-web-programming-skills/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/17/managing-settings-for-multiple-environments-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/22/managing-multiple-python-versions-with-pyenv/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/07/mastering-django-configuration/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/24/mixins-in-python/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/24/how-to-handle-nullable--non-nullable-fields-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/21/optimizing-static-files-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/16/pipenv/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/14/how-to-connect-postgresql-database-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/10/pre-commit/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/01/preventing-unintended-form-resubmission-in-web-applications/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/11/project-specific-configuration-vscode/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/18/how-to-set-up-a-virtual-environment-in-python/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/29/python---magic-or-dunder-methods/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/18/the-restful-api-architecture/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/27/reverse-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/21/secret_key-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/16/unveiling-pythons-hidden-gems-exploring-the-secrets-module/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/13/how-to-send-multipartform-data-request-file-in-postman/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/05/15/separating-business-logic-and-presentation-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/19/serve-static-files-in-production/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/01/02/how-to-implement-tokenization-using-jwt-and-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/05/mysqlclient-related-errors-in-ubuntu/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/20/using-sqlite-with-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/29/exploring-static-and-dynamic-model-choices-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/25/a-peek-into-str-method-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/04/26/understanding-django-query-methods-objectsall-vs-get_object_or_404/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/20/understanding-djangos-serve-view-and-static-function/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/17/understanding-media_root-and-media_url-in-django/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/06/19/phantomjs-headless-browser-is-dead/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/15/using-pipenv-to-manage-development-dependencies/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/24/what-is-mro-method-resolution-order/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/2024/07/18/why-django-serves-static-files-differently-in-development-and-production/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/django-allauth/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/django-ratelimit/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/djangorestframework-api-key/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/djoser/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/drf-rest-auth/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/drf-yasg/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/intro/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/pyjwt/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/package/topic/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/python/args/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/python/content-management-system/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/2/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/3/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/4/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/5/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/6/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/7/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/8/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/page/9/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/2/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/3/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/4/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/5/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/6/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/7/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/8/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
     <url>
          <loc>https://pypy-django.github.io/blog/archive/2024/page/9/</loc>
-         <lastmod>2025-04-06</lastmod>
+         <lastmod>2025-04-26</lastmod>
     </url>
 </urlset>
